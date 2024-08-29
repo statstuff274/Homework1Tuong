@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "AboutDataScience.html",
+    "href": "AboutDataScience.html",
+    "title": "AboutDataScience",
+    "section": "",
+    "text": "Before reading the articles posted on Moodle, I would think that being a data scientist is about using your knowledge of data, analytics, statistics, and programming to glean insight on how to better approach and solve real world problems.\n\n\n\n\n\nThere are many similarities between data scientists and statisticians. Both roles use a mix of analytics and statistics in order to work with data in similar but different ways. The differences of a statistician is that it: mainly focuses on modeling (i.e. science), brings the data to model, data is relatively small in size/clean in text file formats, usually is structured data, and usually isolated from production system. As for a data scientists, they: mainly focus on business program and result (i.e. engineering), brings models to data, needs to work with unclean and large amounts of data in various formats, contains both structured and unstructured data, and usually embedded in a production system. There are lots of commonalities between the two roles.\n\n\n\n\n\nIn relationship to these two areas, I find myself to be a mix of both a data scientist and a statistician. My current role as a research assistant uses statistics to better understand certain situations and variables, but I want to learn more about how programming can work with data and statistics to become a better researcher. I’m hoping to learn as much as I can in this course to better understand how to glean insight from data using R."
+  },
+  {
+    "objectID": "AboutDataScience.html#what-do-you-think-about-being-a-data-scientist-is-about",
+    "href": "AboutDataScience.html#what-do-you-think-about-being-a-data-scientist-is-about",
+    "title": "AboutDataScience",
+    "section": "",
+    "text": "Before reading the articles posted on Moodle, I would think that being a data scientist is about using your knowledge of data, analytics, statistics, and programming to glean insight on how to better approach and solve real world problems."
+  },
+  {
+    "objectID": "AboutDataScience.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "href": "AboutDataScience.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "title": "AboutDataScience",
+    "section": "",
+    "text": "There are many similarities between data scientists and statisticians. Both roles use a mix of analytics and statistics in order to work with data in similar but different ways. The differences of a statistician is that it: mainly focuses on modeling (i.e. science), brings the data to model, data is relatively small in size/clean in text file formats, usually is structured data, and usually isolated from production system. As for a data scientists, they: mainly focus on business program and result (i.e. engineering), brings models to data, needs to work with unclean and large amounts of data in various formats, contains both structured and unstructured data, and usually embedded in a production system. There are lots of commonalities between the two roles."
+  },
+  {
+    "objectID": "AboutDataScience.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "href": "AboutDataScience.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "title": "AboutDataScience",
+    "section": "",
+    "text": "In relationship to these two areas, I find myself to be a mix of both a data scientist and a statistician. My current role as a research assistant uses statistics to better understand certain situations and variables, but I want to learn more about how programming can work with data and statistics to become a better researcher. I’m hoping to learn as much as I can in this course to better understand how to glean insight from data using R."
+  }
+]
